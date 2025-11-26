@@ -21,48 +21,47 @@
 <td width="50%">
 
 ### 🧠 [MUSH - Master's Thesis](https://github.com/Rahul-fix/MUSH)
-**Exploring the Sensitivity of Model (ViT) Uncertainty to Hyperparameter Variations**
-
-- 📊 Systematic analysis of Vision Transformers
-- 🔬 Uncertainty Quantification research
-- 💻 **Tech:** Jupyter Notebook, PyTorch, Deep Learning
-- 🎓 Master's research project
+ViT Uncertainty & Hyperparameter Analysis  
+💻 PyTorch, Deep Learning, Jupyter
 
 </td>
 <td width="50%">
 
 ### 🌿 [Cologne Green Project](https://github.com/Rahul-fix/cologne-green-project)
-**CorrelAid Data4Good: Urban Green Space Analysis**
-
-- 🗺️ Analyzes green areas in Cologne using satellite imagery
-- 🌳 GIS data processing for urban planning
-- 💚 **CorrelAid volunteer project**
-- 💻 **Tech:** Python, QGIS, Geospatial Analysis
-- ⭐ 1 star
+CorrelAid Data4Good - Urban Green Analysis  
+💻 Python, QGIS, Satellite Imagery ⭐
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ⚙️ [AirflowVsAPScheduler](https://github.com/Rahul-fix/AirflowVsAPScheduler)
-**Workflow Orchestration Comparison**
-
-- 🔄 Comparing Apache Airflow vs APScheduler
-- 📅 Task scheduling and workflow management
-- 💻 **Tech:** Python, Airflow
-- 🎯 DevOps best practices
+### 👁️ [Stereo Depth Estimation](https://github.com/Rahul-fix/stereo-depth)
+CNN-based Depth Estimation  
+💻 Deep Learning, Computer Vision
 
 </td>
 <td width="50%">
 
-### 🗺️ [Geoinformation Management](https://github.com/Rahul-fix/Geoinformation-Management-Project)
-**GIS Data Management System**
+### ⚙️ [IDS Wrapper - OIH](https://github.com/openintegrationhub/IDS-wrapper)
+Fraunhofer IAIS Contribution  
+💻 Integration, DevOps, Docker
 
-- 📊 Geospatial data management and processing
-- 🔧 Backend system development
-- 💻 **Tech:** Java, GIS
-- 🎓 University project
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔄 [OpenGPT-X Task-5](https://github.com/OpenGPTX/AP5/tree/main/Task-5)
+Fraunhofer IAIS AI Infrastructure  
+💻 MLOps, Testing, Development
+
+</td>
+<td width="50%">
+
+### 📊 [Airflow vs APScheduler](https://github.com/Rahul-fix/AirflowVsAPScheduler)
+Workflow Orchestration Comparison  
+💻 Python, Apache Airflow
 
 </td>
 </tr>
