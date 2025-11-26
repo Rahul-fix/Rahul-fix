@@ -14,15 +14,59 @@
 
 ---
 
-## 📌 Pinned Repositories
+## 📌 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### 🔥 Check out my featured projects below! 👇
+### 🧠 [MUSH - Master's Thesis](https://github.com/Rahul-fix/MUSH)
+**Exploring the Sensitivity of Model (ViT) Uncertainty to Hyperparameter Variations**
 
-*Pin your best repositories here by going to your profile and clicking "Customize your pins"*
+- 📊 Systematic analysis of Vision Transformers
+- 🔬 Uncertainty Quantification research
+- 💻 **Tech:** Jupyter Notebook, PyTorch, Deep Learning
+- 🎓 Master's research project
 
-</div>
+</td>
+<td width="50%">
+
+### 🌿 [Cologne Green Project](https://github.com/Rahul-fix/cologne-green-project)
+**CorrelAid Data4Good: Urban Green Space Analysis**
+
+- 🗺️ Analyzes green areas in Cologne using satellite imagery
+- 🌳 GIS data processing for urban planning
+- 💚 **CorrelAid volunteer project**
+- 💻 **Tech:** Python, QGIS, Geospatial Analysis
+- ⭐ 1 star
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ [AirflowVsAPScheduler](https://github.com/Rahul-fix/AirflowVsAPScheduler)
+**Workflow Orchestration Comparison**
+
+- 🔄 Comparing Apache Airflow vs APScheduler
+- 📅 Task scheduling and workflow management
+- 💻 **Tech:** Python, Airflow
+- 🎯 DevOps best practices
+
+</td>
+<td width="50%">
+
+### 🗺️ [Geoinformation Management](https://github.com/Rahul-fix/Geoinformation-Management-Project)
+**GIS Data Management System**
+
+- 📊 Geospatial data management and processing
+- 🔧 Backend system development
+- 💻 **Tech:** Java, GIS
+- 🎓 University project
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -42,12 +86,6 @@ I'm a **Master's student in Geodetic Engineering** at the **University of Bonn**
 
 ## 💼 Professional Experience
 
-### 🔹 Data Science Volunteer | CorrelAid
-**Ongoing**
-
-- 📊 Contributing to **Data4Good** projects for non-profit organizations
-- 🤝 Part of **2,400+ volunteer network** democratizing data science
-
 ### 🔹 DevOps Engineer | Fraunhofer IAIS
 **September 2022 - Present**
 
@@ -61,6 +99,12 @@ I'm a **Master's student in Geodetic Engineering** at the **University of Bonn**
 
 - 🌾 Developed ML models for agricultural applications and plant organ recognition
 - 📸 Applied deep learning for precision agriculture
+
+### 🔹 Data Science Volunteer | CorrelAid
+**Ongoing**
+
+- 📊 Contributing to **Data4Good** projects for non-profit organizations
+- 🤝 Part of **2,400+ volunteer network** democratizing data science
 
 ---
 
@@ -87,16 +131,6 @@ I'm a **Master's student in Geodetic Engineering** at the **University of Bonn**
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
----
-
-## 🎓 Featured Projects
-
-- 🔬 **Vision Transformer Uncertainty Analysis** - Systematic analysis of model uncertainty in ViT (Master's Thesis)
-- 🌾 **Plant Organ Recognition** - Deep learning for agricultural applications using computer vision
-- 🤖 **Unsupervised ML for Breeding** - Applying ML techniques to agricultural research
-- 👁️ **Stereo Depth Estimation** - CNN-based depth estimation for robotics
-- 🚗 **CARLA Simulation** - Autonomous driving experiments
 
 ---
 
