@@ -42,6 +42,12 @@ I'm a **Master's student in Geodetic Engineering** at the **University of Bonn**
 
 ## 💼 Professional Experience
 
+### 🔹 Data Science Volunteer | CorrelAid
+**Ongoing**
+
+- 📊 Contributing to **Data4Good** projects for non-profit organizations
+- 🤝 Part of **2,400+ volunteer network** democratizing data science
+
 ### 🔹 DevOps Engineer | Fraunhofer IAIS
 **September 2022 - Present**
 
@@ -55,12 +61,6 @@ I'm a **Master's student in Geodetic Engineering** at the **University of Bonn**
 
 - 🌾 Developed ML models for agricultural applications and plant organ recognition
 - 📸 Applied deep learning for precision agriculture
-
-### 🔹 Data Science Volunteer | CorrelAid
-**Ongoing**
-
-- 📊 Contributing to **Data4Good** projects for non-profit organizations
-- 🤝 Part of **2,400+ volunteer network** democratizing data science
 
 ---
 
@@ -152,16 +152,6 @@ I'm a **Master's student in Geodetic Engineering** at the **University of Bonn**
 - 🏗️ **AI Engineering** - Production-ready system design
 - 🔗 **MLOps** - Continuous integration for ML workflows
 - 🌐 **Advanced Kubernetes** - Service mesh and scaling
-
----
-
-## 🏆 Achievements
-
-- 🎤 Moderated CESOC Members' Assembly 2025
-- 🌐 Internet Tutor (Netzmentor) at Studentenwerk Bonn (4+ years)
-- 🤝 Active Member of International Club, University of Bonn
-- 💚 CorrelAid Volunteer - Data4Good initiatives
-- 🎓 Top 15% of Bachelor's Class
 
 ---
 
