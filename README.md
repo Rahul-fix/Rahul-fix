@@ -29,7 +29,7 @@ ViT Uncertainty & Hyperparameter Analysis
 
 ### 🌿 [Cologne Green Project](https://github.com/Rahul-fix/cologne-green-project)
 CorrelAid Data4Good - Urban Green Analysis  
-💻 Python, QGIS, Satellite Imagery ⭐
+💻 ML/DL, GIS, Computer Vision
 
 </td>
 </tr>
