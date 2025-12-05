@@ -45,7 +45,7 @@ CNN-based Depth Estimation
 
 ### ⚙️ [IDS Wrapper - OIH](https://github.com/openintegrationhub/IDS-wrapper)
 Fraunhofer IAIS Contribution  
-💻 Integration, DevOps, Docker
+💻 Integration, DevOps, Docker, K8s(Kubernetes)
 
 </td>
 </tr>
